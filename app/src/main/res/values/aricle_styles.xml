@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="article_background">@color/white</color>
+    <color name="selected_concept_color">@color/amber_200</color>
+    <color name="concept_color">@color/blue_400</color>
+
+    <style name="Capsule.Article.Title" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/playfairdisplay_variablefont_wght</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>
+    </style>
+
+    <style name="Capsule.Concept.Title" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Body2</item>
+    </style>
+
+    <style name="Capsule.Article.Body" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Body1</item>
+    </style>
+
+    <style name="Capsule.Article.Body2" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/opensans_semi_bold</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Body2</item>
+    </style>
+</resources>

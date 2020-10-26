@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Capsule NYT health</string>
+    <string name="health_topics">Health topics</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="expand_concepts_selection">expand concepts selection</string>
+</resources>

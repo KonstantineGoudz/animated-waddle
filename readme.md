@@ -14,6 +14,7 @@ and
 [here](https://github.com/KonstantineGoudz/animated-waddle/blob/804e7d0671dcfbac9e5d4370fec9a32825c2342b/app/build.gradle#L41)
 
 from
+/app/build.gradle
 ```groovy
     buildTypes {
         debug {
@@ -29,7 +30,7 @@ from
 ```
 
 to 
-
+/app/build.gradle
 ```groovy
     buildTypes {
         debug {

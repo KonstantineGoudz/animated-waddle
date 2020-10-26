@@ -2,10 +2,10 @@
 
 The app uses the NYT Semantic and Articles API to find concepts relating to health. The NYT Articles api is used to find articles for a specific concept.
 
-#Setup
+# Setup
 
 - option 1
-update projecect or user `gradle.properties` with the `nytApiKey` key and the api key as the value 
+update project or user `gradle.properties` with the `nytApiKey` key and the api key as the value 
 
 - option 2 
 replace the api key in the app build.gradle
